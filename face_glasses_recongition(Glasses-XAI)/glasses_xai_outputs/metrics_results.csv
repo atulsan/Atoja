@@ -1,0 +1,7 @@
+File,Grad-CAM,Integrated Gradients,LIME
+04484.jpg,"{'Faithfulness': 0.008646996381457809, 'Sparsity': 0.0, 'Complexity': 471131}","{'Faithfulness': 0.07384474873068857, 'Sparsity': 0.0, 'Complexity': 185}","{'Faithfulness': 0, 'Sparsity': 0.9850969314575195, 'Complexity': 15627}"
+01688.jpg,"{'Faithfulness': -0.003794737578361842, 'Sparsity': 0.030492782592773438, 'Complexity': 416933}","{'Faithfulness': 0.04092996868999996, 'Sparsity': 0.0, 'Complexity': 41}","{'Faithfulness': 0, 'Sparsity': 0.988337516784668, 'Complexity': 12229}"
+10770.jpg,"{'Faithfulness': 0.0018764373998697216, 'Sparsity': 0.0, 'Complexity': 203185}","{'Faithfulness': 0.028232362291283203, 'Sparsity': 0.0, 'Complexity': 476}","{'Faithfulness': 0, 'Sparsity': 0.9593315124511719, 'Complexity': 42644}"
+01537.jpg,"{'Faithfulness': -0.0010149269917335275, 'Sparsity': 0.060985565185546875, 'Complexity': 352909}","{'Faithfulness': 0.027558855615431106, 'Sparsity': 0.0, 'Complexity': 98}","{'Faithfulness': 0, 'Sparsity': 0.9914817810058594, 'Complexity': 8932}"
+07501.jpg,"{'Faithfulness': 0.0002659380392126732, 'Sparsity': 0.020328521728515625, 'Complexity': 186886}","{'Faithfulness': 0.022374044784541122, 'Sparsity': 0.0, 'Complexity': 159}","{'Faithfulness': 0, 'Sparsity': 0.9859094619750977, 'Complexity': 14775}"
+02922.jpg,"{'Faithfulness': 0.012877611989108584, 'Sparsity': 0.030492782592773438, 'Complexity': 302046}","{'Faithfulness': 0.04458936320914611, 'Sparsity': 0.0, 'Complexity': 330}","{'Faithfulness': 0, 'Sparsity': 0.9872655868530273, 'Complexity': 13353}"
